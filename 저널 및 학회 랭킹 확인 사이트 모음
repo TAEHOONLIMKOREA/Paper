@@ -1,0 +1,86 @@
+📊 저널 및 학회 랭킹 확인 사이트 모음
+
+
+### 1. **Journal Citation Reports (JCR) – by Clarivate**
+
+- **공식 사이트**: https://jcr.clarivate.com/
+    
+- **주요 기능**:    
+    - Impact Factor (IF) 확인        
+    - Quartile (Q1~Q4) 확인        
+    - 저널 간 비교
+        
+- **사용법**:    
+    - Web of Science에 가입된 학교/기관을 통해 접속해야 무료 이용 가능        
+    - SCI/SCIE, SSCI, A&HCI 저널 전부 조회 가능        
+
+> ✅ 가장 공신력 있는 저널 순위 사이트
+
+---
+
+### 2. **[Scimago Journal & Country Rank (SJR)](https://www.scimagojr.com/)**
+
+- **공식 사이트**: [https://www.scimagojr.com/](https://www.scimagojr.com/)
+    
+- **주요 기능**:    
+    - Scopus 기반의 저널 순위 제공 (Elsevier 운영)        
+    - SJR 지수, H-index, 분야별 Quartile 제공        
+    - 무료로 사용 가능
+        
+- **사용법**:    
+    - 분야별, 국가별, 키워드별 저널 검색 가능        
+    - 예: "Artificial Intelligence" 검색 → AI 저널들 랭킹 확인        
+
+> ✅ SCI뿐 아니라 **Scopus 기반 랭킹도 보고 싶을 때 추천**
+
+---
+
+### 3. **Google Scholar Metrics**
+
+- **공식 사이트**: https://scholar.google.com/citations?view_op=top_venues&hl=en
+    
+- **주요 기능**:    
+    - Google 학술 검색 기반 인용수 랭킹 제공        
+    - 분야별 상위 저널 목록 제공 (h5-index 기준)
+        
+- **특징**:    
+    - 무료이고 간편하게 사용 가능        
+    - **비공식적이지만 참고용으로 유용함**
+        
+
+---
+
+### 4. **Core Conference Rankings (컴퓨터 분야 학회 랭크)**
+
+- **공식 사이트**: https://www.core.edu.au/conference-portal
+    
+- **분야**: 컴퓨터공학, IT, 소프트웨어 등
+    
+- **랭크**:    
+    - A*, A, B, C 등급으로 국제 학회 평가        
+    - 예: NeurIPS = A*, ICML = A*, ICRA = A        
+
+> ✅ 컴퓨터/AI/로보틱스 분야 학회 찾을 때 매우 유용
+
+---
+
+### 5. **Guide2Research (Computer Science Rankings)**
+
+- **공식 사이트**: https://www.guide2research.com/journals/
+    
+- **분야**: 컴퓨터 사이언스, 인공지능, 데이터 사이언스 등
+    
+- **기능**: 저널/학회 Impact 및 Top 연구자 랭킹 확인
+    
+
+---
+
+## 📌 정리
+
+|사이트명|특징|사용 권장 대상|
+|---|---|---|
+|**JCR (Clarivate)**|가장 공신력 있는 SCI/SSCI 랭킹|대학/기관 인증 있는 사용자|
+|**Scimago (SJR)**|무료, Scopus 기반 Q랭크 확인|일반 연구자/학생|
+|**Google Scholar Metrics**|간편하게 인용 랭크 확인|빠른 참고용|
+|**CORE Rankings**|컴퓨터/AI 학회 랭킹|소프트웨어·AI 연구자|
+|**Guide2Research**|컴퓨터 저널 및 연구자 랭킹|CS 전공자|

@@ -1,0 +1,91 @@
+
+
+### 📌 개요
+
+- **운영 기관**: Scimago Lab (스페인), Scopus 자료 기반    
+- **웹사이트**: [https://www.scimagojr.com](https://www.scimagojr.com)    
+- **데이터 출처**: Elsevier의 **Scopus** (세계 최대 학술 데이터베이스 중 하나)    
+- **목적**: 저널의 영향력, 분야별 순위, 국가별 연구성과를 비교할 수 있도록 제공    
+
+---
+
+## 📈 주요 지표 설명
+
+### 1. **SJR 지수 (Scimago Journal Rank Indicator)**
+
+- 저널에 인용된 횟수와 **그 인용의 '질적 가치'**를 함께 반영한 점수    
+- 단순 인용 수가 아닌, **어떤 저널에서 인용했는지**도 고려함  
+    (예: Nature에서 인용된 건 더 높은 가치로 계산)    
+- 수치가 높을수록 영향력 있는 저널이라는 뜻
+    
+
+> ✅ 예:> 
+> - Nature: SJR = 17.7>     
+> - IEEE Access: SJR = 0.88>     
+> - 일반 저널: SJR = 0.2 ~ 1.0 사이가 많음>     
+
+---
+
+### 2. **Q 등급 (Quartile Rank: Q1 ~ Q4)**
+
+- **해당 저널이 속한 분야(Field/Category)**에서의 상대 순위    
+- 분야별로 상위 25% → **Q1**, 그다음 25% → **Q2**, … 하위 25% → **Q4**    
+
+|Quartile|의미|
+|---|---|
+|**Q1**|상위 25% — 최상위 저널|
+|**Q2**|상위 25~50% — 중상위|
+|**Q3**|상위 50~75% — 중하위|
+|**Q4**|하위 25% — 하위권 저널|
+
+> ✅ 저널은 **여러 분야에 속할 수 있고**, 그 중 어떤 분야에서는 Q1, 다른 분야에서는 Q2일 수도 있어요.
+
+---
+
+### 3. 🔍 기타 지표
+
+- **H-Index**: 저널의 누적 인용 영향력    
+- **Total Docs / Total Cites**: 연도별 논문 수와 인용 수    
+- **Country**: 발행 국가    
+- **Subject Area & Category**: 저널이 속한 학문 분야    
+- **Open Access 여부**: 무료로 열람 가능한지 여부
+    
+
+---
+
+## 💡 Scimago에서 저널 랭킹 보는 방법 (예시)
+
+1. **사이트 접속**: [https://www.scimagojr.com](https://www.scimagojr.com)
+    
+2. 상단 메뉴의 "Journal Rankings" 클릭    
+3. 검색 필터 활용:    
+    - **Subject Area**: 예: Engineering, Computer Science        
+    - **Subject Category**: 예: Artificial Intelligence, Robotics        
+    - **Country**, **Publisher**, **Open Access** 여부도 선택 가능        
+4. **SJR 지수, H-Index, Q 등급**을 한눈에 확인 가능
+    
+
+---
+
+## 📌 SJR vs Impact Factor (Clarivate)
+
+|비교 항목|SJR (Scopus)|Impact Factor (JCR/SCI)|
+|---|---|---|
+|데이터 출처|Scopus|Web of Science (Clarivate)|
+|계산 방식|질 높은 인용 중심|최근 2년 인용 중심|
+|무료 여부|무료|유료 (기관 계정 필요)|
+|Q랭크 제공|제공 (Q1~Q4)|JCR에서 제공 (비공식적으로 쓰임)|
+|사용 범위|전 세계 논문 + Scopus 저널|전통적, 공신력 높은 평가 기준|
+
+---
+
+## 🎓 실제로 많이 쓰이는 예시
+
+- 연구자 이력서(CV) 작성 시:  
+    “논문이 Q1 저널에 게재됨” 등으로 표현
+    
+- 연구실 논문 평가:  
+    Q1 + 높은 SJR 저널에 게재하면 연구력 인정 ↑
+    
+- 대학원 진학/포닥/연구비 신청 시:  
+    저널 랭크가 큰 영향력 있음
